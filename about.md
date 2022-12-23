@@ -5,9 +5,9 @@ title: O kursu
 
 ## Informacije o kursu
 
-Profesor: [Mirko Spasić](http://poincare.matf.bg.ac.rs/~mirko/) (4I), [Aleksandar Kartelj](http://poincare.matf.bg.ac.rs/~kartelj/) (4R)
+Profesor: [Mirko Spasić](http://poincare.matf.bg.ac.rs/~mirko.spasic/) (4I), [Aleksandar Kartelj](http://poincare.matf.bg.ac.rs/~aleksandar.kartelj/) (4R)
 
-Asistenti: [Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan_ristovic/) (4I), [Nikola Katić](http://poincare.matf.bg.ac.rs/~nikola_katic/) (4I), [Luka Jovičić](http://poincare.matf.bg.ac.rs/~luka_jovicic/) (4I), [Vukan Antić](http://poincare.matf.bg.ac.rs/~vukan_antic/) (4R)
+Asistenti: [Ivan Ristović](http://poincare.matf.bg.ac.rs/~ivan.ristovic/) (4I), [Nikola Katić](http://poincare.matf.bg.ac.rs/~nikola.katic/) (4I), [Luka Jovičić](http://poincare.matf.bg.ac.rs/~luka.jovicic/) (4I), [Vukan Antić](http://poincare.matf.bg.ac.rs/~vukan.antic/) (4R)
 
 Završni ispit je nedeljiv, odnosno delovi završnog ispita se ne prenose u naredni rok.
 
